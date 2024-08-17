@@ -1,4 +1,4 @@
-## Hi there
+## Hi there hello
 This is a collection of mostly hobby projects, in which I explore different programming languages.
 
 I'm currently interested in Gleam, Elm, Rust, and Go.
