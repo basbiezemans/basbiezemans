@@ -1,16 +1,6 @@
 ## Hi there hello
 This is a collection of mostly hobby projects, in which I explore different programming languages.
 
-I'm currently interested in Gleam, Elm, Rust, and Go.
-
----
-
-If you are not interested then I suggest you click on the image below to watch a funny video.
-Give it a try. It's super easy. Barely an inconvenience.
-
-<a href="https://www.youtube.com/watch?v=qQiui9h71l8">
-    <img src="./img/pickle.webp" width="300" alt="Sandwich with a pretty big pickle in it">
-</a>
 <!--
 **basbiezemans/basbiezemans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
